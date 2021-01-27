@@ -1,0 +1,1 @@
+web: gunicorn imovelweb.wsgi --log-file -
